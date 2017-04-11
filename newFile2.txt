@@ -4,4 +4,4 @@ Test diff.
 
 stash 1.
 
-This line is going to be revert.
+Modify this line on remote repository.
