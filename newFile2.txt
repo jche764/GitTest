@@ -5,3 +5,5 @@ Test diff.
 stash 1.
 
 Modify this line on remote repository.
+
+This is commit by branch-1.
